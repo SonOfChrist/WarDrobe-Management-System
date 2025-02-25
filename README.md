@@ -26,16 +26,10 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 
 
 ## Crud [Add, Edit, Update and Delete]
-<img src="/public/ReadmeImages/" alt="HeadlessUi">
+- Updating the New set of Cloths to the Page and uploading them to the application
+<img src="/public/ReadmeImages/CRUD on The Wordrobe.png" alt="HeadlessUi">
 
-I extended the headlessui to create a DropDown Menu assist [HeadlessUI / HeroIcon](https://headlessui.com/v1/vue/menu).
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
 
