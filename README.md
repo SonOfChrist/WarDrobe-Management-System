@@ -6,9 +6,10 @@
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 </p>
 
-## About Laravel
+## User authentication (Login/Registration)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+This a user authentication systen with expressive, elegant syntax. I believe development must be an enjoyable and creative experience to be truly fulfilling. The user authentication was generated using the Laravel Breeze/vue to make it easy and secure for any user to authenticate.
+<img src="/public/ReadmeImages/UserAuthentication page.png" width="400" alt="Laravel Logo">
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
