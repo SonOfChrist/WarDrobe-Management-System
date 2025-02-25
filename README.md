@@ -16,7 +16,7 @@ This a user authentication systen with expressive, elegant syntax. I believe dev
 
 ## User Setting DropDown Menu
 - I designed using the Headless ui to be able to create my own dropDownMenu
-<img src="/public/ReadmeImages/UserSettingDropDown Menu.png" alt="HeadlessUi">
+<img src="/public/ReadmeImages/UserSettingsDropDownMenu.png" alt="HeadlessUi">
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
