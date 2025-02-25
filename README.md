@@ -9,7 +9,7 @@
 ## User authentication (Login/Registration)
 
 This a user authentication systen with expressive, elegant syntax. I believe development must be an enjoyable and creative experience to be truly fulfilling. The user authentication was generated using the Laravel Breeze/vue to make it easy and secure for any user to authenticate.
-<img src="/public/ReadmeImages/UserAuthentication page.png" width="400" alt="Laravel Logo">
+<img src="/public/ReadmeImages/UserAuthentication page.png" alt="Authentication_frontPage">
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
